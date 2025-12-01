@@ -9,7 +9,7 @@ name: Lista de Espera Quirurgica Interoperable
 title: Lista de Espera Quirúrgica Interoperable
 description: Guía de implementación para la interoperabilidad de la lista de espera Quirúrgica en Chile.
 status: draft # draft | active | retired | unknown
-version: 0.1.1
+version: 0.1.2
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2024+
 releaseLabel: draft
@@ -61,6 +61,8 @@ pages:
     title: Transacciones
   spec-message.md:
     title: Mensajería
+  changes.md:
+    title: Historial de Cambios
 #
 #
 # The parameters property represents IG.definition.parameter. Rather
@@ -98,6 +100,7 @@ menu:
     Mensajería: spec-message.html
   Terminologías: artifacts.html#terminology-value-sets
   Artefactos: artifacts.html
+  Historial de Cambios: changes.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
 # │  Uncomment the properties below to configure additional properties on the ImplementationGuide  │
