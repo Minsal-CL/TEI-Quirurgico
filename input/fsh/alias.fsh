@@ -1,6 +1,6 @@
 Alias: $SegundoApellido = https://hl7chile.cl/fhir/ig/clcore/StructureDefinition/SegundoApellido
 Alias: $cl-address = https://hl7chile.cl/fhir/ig/clcore/StructureDefinition/cl-address
-Alias: $CS-CodPais-CoreCL = https://hl7chile.cl/fhir/ig/clcore/CodeSystem/CodPais
+Alias: $CS-CodPais-CoreCL = urn:iso:std:iso:3166
 Alias: $CS-IdentidadGenero = https://hl7chile.cl/fhir/ig/clcore/CodeSystem/CSIdentidaddeGenero
 Alias: $CS-TipoIdentificador = https://hl7chile.cl/fhir/ig/clcore/CodeSystem/CSTipoIdentificador
 Alias: $allergy-clinical = http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical

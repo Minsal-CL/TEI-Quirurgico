@@ -1,0 +1,16 @@
+{
+    "package-id": "hl7.fhir.cl.minsal.quirurgico",
+    "version": "0.1.2-draft",
+    "desc": "Versión de desarrollo de la guía de implementación de tiempos de esperar no GES Quirúrgico de Ministerio de Salud",
+    "path": "https://interoperabilidad.minsal.cl/fhir/ig/quirurgico/0.1.2-draft",
+    "mode": "working",
+    "changes": "changes.html",
+    "status": "draft",
+    "sequence": "STU1",
+    "first": true,
+    "fhirversion": "4.0.1",
+    "category": "Clinical Records",
+    "title": " Lista de Espera Quirúrgica Interoperable",
+    "introduction": "Guía de implementación para la interoperabilidad de la lista de espera Quirúrgica en Chile.",
+    "ci-build": "https://build.fhir.org/ig/Minsal-CL/TEI-Quirurgico/"
+}
