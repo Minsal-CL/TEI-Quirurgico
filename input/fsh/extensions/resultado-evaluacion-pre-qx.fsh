@@ -2,7 +2,7 @@ Extension: ExtensionResultadoEvaluacionPreQx
 Id: ExtensionResultadoEvaluacionPreQx
 Title: "Extension Resultado Evaluación Pre-Qx"
 Description: "Extensión para representar el resultado de la evaluación pre-quirúrgica."
-Context: EncounterEntrevistaLE
+Context: Encounter
 * value[x] only CodeableConcept
 * value[x] ^short = "Resultado de la evaluación pre-quirúrgica"
 * url 1..1 MS
