@@ -9,7 +9,7 @@ Description: "Paciente definido para el Registro Maestro de Pacientes"
 * extension contains PueblosOriginariosPerteneciente named PueblosOriginariosPerteneciente 1..1 MS
 * extension contains PueblosAfrodescendiente named PueblosAfrodescendiente 0..1 MS
 * extension contains PueblosOriginarios named PueblosOriginarios 0..1 MS
-* extension[naciolidad] 1..1 MS
+* extension[nacionalidad] 1..1 MS
 * extension[IdentidadDeGenero] 1..1 MS
 
 * id 1..1 MS
