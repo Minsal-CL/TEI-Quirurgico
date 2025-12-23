@@ -9,10 +9,10 @@ name: Lista de Espera Quirurgica Interoperable
 title: Lista de Espera Quirúrgica Interoperable
 description: Guía de implementación para la interoperabilidad de la lista de espera Quirúrgica en Chile.
 status: draft # draft | active | retired | unknown
-version: 0.1.2-draft
+version: 0.1.2-ballot
+releaseLabel: ballot
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
-copyrightYear: 2024+
-releaseLabel: draft
+copyrightYear: 2025+
 # license: CC0-1.0 # https://www.hl7.org/fhir/valueset-spdx-license.html
 jurisdiction: urn:iso:std:iso:3166#CL "Chile" # https://www.hl7.org/fhir/valueset-jurisdiction.html
 publisher:
@@ -23,7 +23,7 @@ publisher:
 # The dependencies property corresponds to IG.dependsOn. The key is the
 # package id and the value is the version (or dev/current). For advanced
 # use cases, the value can be an object with keys for id, uri, and version.
-#
+
 dependencies:
   hl7.fhir.cl.clcore: 1.9.4
   hl7.fhir.uv.extensions.r4: 5.2.0

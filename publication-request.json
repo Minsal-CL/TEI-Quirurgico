@@ -1,8 +1,8 @@
 {
     "package-id": "hl7.fhir.cl.minsal.quirurgico",
-    "version": "0.1.2-draft",
+    "version": "0.1.2-ballot",
     "desc": "Versión de desarrollo de la guía de implementación de tiempos de esperar no GES Quirúrgico de Ministerio de Salud",
-    "path": "https://interoperabilidad.minsal.cl/fhir/ig/quirurgico/0.1.2-draft",
+    "path": "https://interoperabilidad.minsal.cl/fhir/ig/quirurgico/0.1.2-ballot",
     "mode": "working",
     "changes": "changes.html",
     "status": "draft",
