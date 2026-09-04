@@ -113,15 +113,15 @@ menu:
 # ContactDetail.
 #
 contact:
-  - name: Roberto Araneda
+  - name: Jorge Mansilla
     telecom:
       - system: email # phone | fax | email | pager | url | sms | other
-        value: roberto.araneda@chiledata.cl
+        value: jorge.mansilla@minsal.cl
         use: work
-  - name: John Díaz
+  - name: Franco Ulloa
     telecom:
       - system: email # phone | fax | email | pager | url | sms | other
-        value: john.diaz@chiledata.cl
+        value: franco.ulloa@minsal.cl
         use: work
 #
 # The global property corresponds to the IG.global property, but it
